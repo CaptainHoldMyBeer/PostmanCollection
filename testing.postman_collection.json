@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "5b1f1550-e05e-4e38-93d0-dfcd0464eef9",
+		"name": "testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23494602"
+	},
+	"item": [
+		{
+			"name": "Get1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
