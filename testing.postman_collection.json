@@ -22,5 +22,13 @@
 			},
 			"response": []
 		}
+		{
+			"name": "Get3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
 	]
-}
+}   
