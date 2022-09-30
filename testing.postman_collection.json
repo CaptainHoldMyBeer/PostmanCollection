@@ -29,6 +29,14 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "Get4",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }   
